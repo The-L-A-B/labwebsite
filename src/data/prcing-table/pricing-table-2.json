@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "packageName": "Basic",
+    "price": 46,
+    "popular": false,
+    "user": "Up to 20 users",
+    "storage": "10GB",
+    "support": true,
+    "transfer": false,
+    "tracking": false,
+    "sizeLimit": "2GB",
+    "mobileApp": false
+  },
+  {
+    "id": 2,
+    "packageName": "Regular",
+    "price": 59,
+    "popular": true,
+    "user": "Up to 30 users",
+    "storage": "20GB",
+    "support": true,
+    "transfer": true,
+    "tracking": false,
+    "sizeLimit": "5GB",
+    "mobileApp": true
+  },
+  {
+    "id": 3,
+    "packageName": "Premium",
+    "price": 99,
+    "popular": false,
+    "user": "Up to 99 users",
+    "storage": "100GB",
+    "support": true,
+    "transfer": true,
+    "tracking": true,
+    "sizeLimit": "10GB",
+    "mobileApp": true
+  }
+]

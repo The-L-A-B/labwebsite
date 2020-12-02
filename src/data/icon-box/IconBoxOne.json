@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Design",
+    "content": "Brook embraces a modern look with various enhanced pre-defined page elements.",
+    "iconClass": "ion-ios-eye-outline",
+    "btnText": "More Details",
+    "btnLink": "/"
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Design",
+    "content": "This is the theme for businesses & companies operating in a wide range of areas.",
+    "iconClass": "ion-ios-bookmarks-outline",
+    "btnText": "More Details",
+    "btnLink": "/"
+  },
+  {
+    "id": 3,
+    "title": "Creative Design",
+    "content": "Brook is highly responsive thanks to built-in WPBakery Page Builder & Slider Revolution",
+    "iconClass": "ion-ios-browsers-outline",
+    "btnText": "More Details",
+    "btnLink": "/"
+  }
+]

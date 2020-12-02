@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "thumb": "instagram-1.jpg",
+    "likes": "10k",
+    "comments": 101
+  },
+  {
+    "id": 2,
+    "thumb": "instagram-2.jpg",
+    "likes": "2k",
+    "comments": 31
+  },
+  {
+    "id": 3,
+    "thumb": "instagram-3.jpg",
+    "likes": "12k",
+    "comments": 231
+  },
+  {
+    "id": 4,
+    "thumb": "instagram-4.jpg",
+    "likes": "2k",
+    "comments": 99
+  },
+  {
+    "id": 5,
+    "thumb": "instagram-5.jpg",
+    "likes": "5k",
+    "comments": 6
+  },
+  {
+    "id": 6,
+    "thumb": "instagram-6.jpg",
+    "likes": "33k",
+    "comments": 36
+  }
+]

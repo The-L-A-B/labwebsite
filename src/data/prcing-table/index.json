@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "packageName": "Basic",
+    "price": 46,
+    "popular": false,
+    "features": [
+      "Landscape Architecture",
+      "Business Architecture",
+      "SEO marketing",
+      "Cognitive Architecture",
+      "Interior Architecture",
+      "UI/UX designs"
+    ]
+  },
+  {
+    "id": 2,
+    "packageName": "Standard",
+    "price": 99,
+    "popular": true,
+    "features": [
+      "Business Architecture",
+      "Cognitive Architecture",
+      "Interior Architecture",
+      "Landscape Architecture",
+      "UI/UX designs",
+      "SEO marketing"
+    ]
+  },
+  {
+    "id": 3,
+    "packageName": "Premium",
+    "price": 222,
+    "popular": false,
+    "features": [
+      "UI/UX designs",
+      "Business Architecture",
+      "Cognitive Architecture",
+      "Interior Architecture",
+      "Landscape Architecture",
+      "SEO marketing"
+    ]
+  }
+]

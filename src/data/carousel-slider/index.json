@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Text & Title 01",
+    "content": "Brook embraces a modern look with various enhanced pre-defined page elements.",
+    "thumb": "carousel-md-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Text & Title 02",
+    "content": "Brook embraces a modern look with various enhanced pre-defined page elements.",
+    "thumb": "carousel-md-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Text & Title 03",
+    "content": "Brook embraces a modern look with various enhanced pre-defined page elements.",
+    "thumb": "carousel-md-3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Text & Title 04",
+    "content": "Brook embraces a modern look with various enhanced pre-defined page elements.",
+    "thumb": "carousel-md-4.jpg"
+  }
+]

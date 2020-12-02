@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Icon box title 01",
+    "content": "Brook embraces a modern look with various enhanced pre-defined page elements.",
+    "icon": "basic_helm.svg",
+    "btnText": "More Details",
+    "btnLink": "/"
+  },
+  {
+    "id": 2,
+    "title": "Icon box title 02",
+    "content": "This is the theme for businesses & companies operating in a wide range of areas.",
+    "icon": "basic_pencil_ruler.svg",
+    "btnText": "More Details",
+    "btnLink": "/"
+  },
+  {
+    "id": 3,
+    "title": "Icon box title 03",
+    "content": "Brook is highly responsive thanks to built-in WPBakery Page Builder & Slider Revolution",
+    "icon": "basic_tablet.svg",
+    "btnText": "More Details",
+    "btnLink": "/"
+  }
+]

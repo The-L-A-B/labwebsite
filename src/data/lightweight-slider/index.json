@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "backgroundImg": "slider-authentic-studio-slide-01-bg.jpg",
+    "title": "WE WORK SMART, WE PLAY HARD ",
+    "heading": "Revolutionary creations and exquisite designs.",
+    "btnText": "About Us",
+    "btnLink": "/"
+  },
+  {
+    "id": 2,
+    "backgroundImg": "slider-authentic-studio-slide-02-bg.jpg",
+    "title": "WE WORK SMART, WE PLAY HARD ",
+    "heading": "Revolutionary creations and exquisite designs.",
+    "btnText": "About Us",
+    "btnLink": "/"
+  },
+  {
+    "id": 3,
+    "backgroundImg": "slider-authentic-studio-slide-03-bg.jpg",
+    "title": "WE WORK SMART, WE PLAY HARD ",
+    "heading": "Revolutionary creations and exquisite designs.",
+    "btnText": "About Us",
+    "btnLink": "/"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "heading": "Bringing the best digital solutions for your brands",
+    "bgImg": "slider-digital-agency-slide-01-bg.jpg",
+    "btnText": "Find out how",
+    "btnLink": "contact"
+  },
+  {
+    "id": 2,
+    "heading": "The best digital bringing solutions for your brands",
+    "bgImg": "slider-digital-agency-slide-02-bg.jpg",
+    "btnText": "Discover More",
+    "btnLink": "about-one"
+  },
+  {
+    "id": 3,
+    "heading": "Bringing the best digital solutions for your brands",
+    "bgImg": "slider-digital-agency-slide-03-bg.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "contact"
+  }
+]

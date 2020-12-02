@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "position": "Senior Designer",
+    "location": "New York city",
+    "description": "The quality, integrity, and commitment of our employees are key factors in our company’s growth, market presence and our ability to help our clients stay the competition.",
+    "requirements": [
+      "Ensure high quality delivery",
+      "Experience with social media",
+      "Good command of Java, PHP, etc.",
+      "Participate in business discussions",
+      "Good knowledge of technologies & architecture",
+      "Follow strictly HIPAA and PHI data security guidelines"
+    ]
+  },
+  {
+    "id": 2,
+    "position": "Project Manager",
+    "location": "Melbourne, Australia",
+    "description": "The quality, integrity, and commitment of our employees are key factors in our company’s growth, market presence and our ability to help our clients stay the competition.",
+    "requirements": [
+      "Follow strictly quality delivery",
+      "Good command with social media",
+      "Experience of Java, PHP, etc.",
+      "Participate in business discussions",
+      "Good knowledge of technologies & architecture",
+      "Ensure high HIPAA and PHI data security guidelines"
+    ]
+  },
+  {
+    "id": 3,
+    "position": "Senior Designer",
+    "location": "Banasree, Dhaka",
+    "description": "The quality, integrity, and commitment of our employees are key factors in our company’s growth, market presence and our ability to help our clients stay the competition.",
+    "requirements": [
+      "Good command with social media",
+      "Experience of Java, PHP, etc.",
+      "Participate in quality delivery",
+      "Follow strictly business discussions",
+      "knowledge of technologies & architecture",
+      "Ensure high HIPAA and PHI data security guidelines"
+    ]
+  },
+  {
+    "id": 4,
+    "position": "MERN Stack Developer",
+    "location": "Willshire Glen, US",
+    "description": "The quality, integrity, and commitment of our employees are key factors in our company’s growth, market presence and our ability to help our clients stay the competition.",
+    "requirements": [
+      "Follow strictly quality delivery",
+      "Good command with social media",
+      "Experience of Java, PHP, etc.",
+      "Participate in business discussions",
+      "Good knowledge of technologies & architecture",
+      "Ensure high HIPAA and PHI data security guidelines"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "title": "Smart Sound System",
+  "desc": "<p>Not only are comics available in printed form, but they’re also available digitally. Printed, on the web, or on an app? Where do you start? If you have a hard time choosing what to read and where to read it, you’re not alone, because the choices are limitless. With print and web and digital options, we now have so many comic books. (Source: howdesign.com)</p> <p>Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. (Source: blog.hubspot.com)</p>",
+  "meta": [
+    {
+      "id": 1,
+      "type": "Date",
+      "text": "28 Sep 2020"
+    },
+    {
+      "id": 2,
+      "type": "Client",
+      "text": "HighGrove Partners"
+    },
+    {
+      "id": 3,
+      "type": "Categories",
+      "text": "Digital"
+    },
+    {
+      "id": 4,
+      "type": "Awards",
+      "text": "Revolution Designs"
+    }
+  ],
+  "thumbnails": [
+    "01.jpg",
+    "03.jpg"
+  ]
+}

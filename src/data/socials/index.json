@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "media": "facebook",
+    "username": "hasthemes"
+  },
+  {
+    "id": 2,
+    "media": "twitter",
+    "username": "hasthemes"
+  },
+  {
+    "id": 3,
+    "media": "dribbble",
+    "username": "hastech"
+  },
+  {
+    "id": 4,
+    "media": "instagram",
+    "username": "hastech"
+  },
+  {
+    "id": 5,
+    "media": "pinterest",
+    "username": "hastech"
+  }
+]

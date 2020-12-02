@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "UI/UX Designs",
+    "content": "We participate in knowledge and technology transfers to promote the resource use.",
+    "thumb": "service-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Resource use",
+    "content": "Our approach is to focus on growing visibility in organic search engine results.",
+    "thumb": "service-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Responsive Design",
+    "content": "We successfully implemented numerous UI/UX projects for both global & local clients.",
+    "thumb": "service-3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Digital marketing",
+    "content": "We conduct the marketing of products & services using latest digital technologies.",
+    "thumb": "service-4.jpg"
+  }
+]

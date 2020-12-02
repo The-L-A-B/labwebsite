@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "author": "SCOTT JAMES",
+    "authorPic": "client-1.jpeg",
+    "commentDate": "May 17, 2020 at 1:59 am",
+    "quote": "To link your Facebook and Twitter accounts, open the Instagram app on your phone or tablet, and select the Profile tab in the bottom-right corner of the screen.",
+    "reply": false
+  },
+  {
+    "id": 2,
+    "author": "OWEN CHRIST",
+    "authorPic": "client-2.jpeg",
+    "commentDate": "Jul 27, 2020 at 2:30 am",
+    "quote": "To link your Facebook and Twitter accounts, open the Instagram app on your phone or tablet, and select the Profile tab in the bottom-right corner of the screen.",
+    "reply": true
+  },
+  {
+    "id": 3,
+    "author": "EDNA WATSON",
+    "authorPic": "client-3.jpeg",
+    "commentDate": "Aug 04, 2020 at 12:09 pm",
+    "quote": "To link your Facebook and Twitter accounts, open the Instagram app on your phone or tablet, and select the Profile tab in the bottom-right corner of the screen.",
+    "reply": false
+  }
+]

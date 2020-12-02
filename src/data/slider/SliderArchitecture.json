@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "heading": "The Richardson’s building",
+    "bgImg": "slider-home-architecture-slide-01-image-01.jpg",
+    "btnText": "View Project",
+    "btnLink": "portfolio-details"
+  },
+  {
+    "id": 2,
+    "heading": "The happy residence",
+    "bgImg": "slider-home-architecture-slide-02-image-01.jpg",
+    "btnText": "View Project",
+    "btnLink": "portfolio-details"
+  },
+  {
+    "id": 3,
+    "heading": "Lighting house's into snow",
+    "bgImg": "slider-home-architecture-slide-03-image-01.jpg",
+    "btnText": "View Project",
+    "btnLink": "portfolio-details"
+  }
+]

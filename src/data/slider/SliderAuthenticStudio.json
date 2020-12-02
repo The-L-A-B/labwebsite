@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "WE WORK SMART, WE PLAY HARD",
+    "heading": "revolutionary creations and exquisite designs.",
+    "bgImg": "slider-authentic-studio-slide-01-bg.jpg",
+    "btnText": "Explore Now",
+    "btnLink": "about-one"
+  },
+  {
+    "id": 2,
+    "title": "WE KEEP THINGS FAST AND STEADY ",
+    "heading": "excellent cooperation and innovative plans.",
+    "bgImg": "slider-authentic-studio-slide-02-bg.jpg",
+    "btnText": "Discover More",
+    "btnLink": "about-one"
+  },
+  {
+    "id": 3,
+    "title": "TRY OUR BEST, REACH OUT FAR",
+    "heading": "effective solutions and dedicated advice.",
+    "bgImg": "slider-authentic-studio-slide-03-bg.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "contact"
+  }
+]

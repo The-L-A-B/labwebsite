@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Art Direction",
+    "heading": "Nouvelles histoires",
+    "bgImg": "slider-minimal-agency-slide-01-image-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Painting",
+    "heading": "Isometric building",
+    "bgImg": "slider-minimal-agency-slide-02-image-01.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Interior",
+    "heading": "Lighting",
+    "bgImg": "slider-minimal-agency-slide-03-image-01.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "contact"
+  }
+]

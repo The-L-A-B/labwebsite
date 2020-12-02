@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Planning Construction",
+    "description": "Prepare a good construction plan to develop the budget and schedule the work",
+    "icon": "home-architect-service-01-image.png",
+    "thumb": "bg-image-19.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Landscape Architect",
+    "description": "Analyze, plan, design, manage, and nurture the built and natural environments.",
+    "icon": "home-architect-service-02-image.png",
+    "thumb": "bg-image-20.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Urban Design",
+    "description": "Include designing and shaping the physical features of cities, towns and buildings.",
+    "icon": "home-architect-service-03-image.png",
+    "thumb": "bg-image-21.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Infrastructure Analysis",
+    "description": "Provide analyses of infrastructure and other essential constructional conditions.",
+    "icon": "home-architect-service-04-image.png",
+    "thumb": "bg-image-22.jpg"
+  }
+]

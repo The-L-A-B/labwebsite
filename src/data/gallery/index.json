@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "thumb": "gallery-md-1.jpg",
+    "preview": "gallery-lg-1.jpg"
+  },
+  {
+    "id": 2,
+    "thumb": "gallery-md-2.jpg",
+    "preview": "gallery-lg-2.jpg"
+  },
+  {
+    "id": 3,
+    "thumb": "gallery-md-3.jpg",
+    "preview": "gallery-lg-3.jpg"
+  },
+  {
+    "id": 4,
+    "thumb": "gallery-md-4.jpg",
+    "preview": "gallery-lg-4.jpg"
+  },
+  {
+    "id": 5,
+    "thumb": "gallery-md-5.jpg",
+    "preview": "gallery-lg-5.jpg"
+  },
+  {
+    "id": 6,
+    "thumb": "gallery-md-6.jpg",
+    "preview": "gallery-lg-6.jpg"
+  }
+]
