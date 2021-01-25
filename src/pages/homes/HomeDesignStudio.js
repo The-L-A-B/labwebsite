@@ -28,7 +28,7 @@ const HomeDesignStudio = () => {
         <Services />
         <Team />
         <About />
-        <ClientLogo />
+        {/* <ClientLogo /> */}
         <Testimonial />
         <Blog />
         {/* <Map /> */}
