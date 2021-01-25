@@ -31,7 +31,7 @@ const HomeDesignStudio = () => {
         <ClientLogo />
         <Testimonial />
         <Blog />
-        <Map />
+        {/* <Map /> */}
       </LayoutDefault>
       <Footer />
     </Fragment>
