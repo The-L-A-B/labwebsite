@@ -19,7 +19,7 @@ const HeroDesignStudio = () => {
 
                 <div className="hero-content-right" style={{backgroundImage: `url(${gradientBg})`}}>
                     <div className="hero-right">
-                        <h3>check out our works.</h3>
+                        <h3>check out  what we're about.</h3>
                         <a href="/portfolio" className="brook-btn bk-btn-white btn-sd-size btn-rounded">
                             Check Portfolio
                         </a>
