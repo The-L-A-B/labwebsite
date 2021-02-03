@@ -25,13 +25,13 @@ const HomeDesignStudio = () => {
       >
         <Header />
         <HeroBanner />
-        <Services />
+        {/* <Services /> */}
         <Team />
         <About />
-        <ClientLogo />
+        {/* <ClientLogo /> */}
         <Testimonial />
         <Blog />
-        <Map />
+        {/* <Map /> */}
       </LayoutDefault>
       <Footer />
     </Fragment>
