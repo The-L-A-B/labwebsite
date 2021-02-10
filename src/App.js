@@ -101,7 +101,7 @@ const App = () => {
             component={ContactClassic}
           />
           <Route
-            path={`${process.env.PUBLIC_URL + '/about-three'}`}
+            path={`${process.env.PUBLIC_URL + '/about'}`}
             component={AboutPageThree}
           />
           <Route
