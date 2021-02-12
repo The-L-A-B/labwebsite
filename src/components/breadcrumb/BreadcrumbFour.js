@@ -9,15 +9,18 @@ const BreadcrumbFour = () => {
             <div className="overlay" style={{backgroundColor: "#000", opacity: 0.6}}/>
             <Container fluid={true} className="plr--180 plr_lg--100 plr_md--50 plr_sm--50">
                 <Row className="align-items-center">
-                    <Col lg={6}>
+                    <Col>
                         <div className="breadcrumb-inner text-left">
-                            <h1 className="heading heading-h1 font-60 text-white">
-                                We design & build <br/> brands and digital projects <br/> for businesses.
-                            </h1>
+                            <h5 className="heading text-white">
+                              Life After Bootcamp (LAB) is a support group for coding bootcamp graduates. Our greatest priority is building a non-toxic, judgement-free community of talented individuals.
+															Whether you’re seeking a career transition or deepening your knowledge, life after the weeks of structured coursework can seem perplexing and overwhelming—finding the motivation and inspiration to code in the sudden vacuum is challenging.
+															LAB was created with the intention of providing an environment in which developers of all levels, from all walks of life, can continue to give and receive encouragement and guidance, hold each other accountable, share technologies that excite, brainstorm project ideas, or connect with industry professionals.
+															We are here to contemplate, collaborate, (and sometimes commiserate,) but most importantly, celebrate together all things code related. Whatever ignites that spark, we hope you continue to feed your flame with the members of LAB. 
+                            </h5>
                         </div>
                     </Col>
 
-                    <Col lg={6} className="mt_md--30 mt_sm--30">
+                    {/* <Col lg={6} className="mt_md--30 mt_sm--30">
                         <Row className="mt--n50">
                             {content.map(item => (
                                 <Col xl={6} className="mt--50">
@@ -25,38 +28,38 @@ const BreadcrumbFour = () => {
                                 </Col>
                             ))}
                         </Row>
-                    </Col>
+                    </Col> */}
                 </Row>
             </Container>
         </div>
     );
 };
 
-const content = [
-    {
-        id: 1,
-        iconClass: "ion-ios-infinite",
-        title: "Digital marketing",
-        content: "We conduct the marketing of products & services using latest digital technologies."
-    },
-    {
-        id: 2,
-        iconClass: "ion-monitor",
-        title: "UI/UX designs",
-        content: "We conduct the marketing of products & services using latest digital technologies."
-    },
-    {
-        id: 3,
-        iconClass: "ion-ios-baseball-outline",
-        title: "SEO marketing",
-        content: "We conduct the marketing of products & services using latest digital technologies."
-    },
-    {
-        id: 4,
-        iconClass: "ion-pinpoint",
-        title: "Resource use",
-        content: "We conduct the marketing of products & services using latest digital technologies."
-    }
-]
+// const content = [
+//     {
+//         id: 1,
+//         iconClass: "ion-ios-infinite",
+//         title: "Digital marketing",
+//         content: "We conduct the marketing of products & services using latest digital technologies."
+//     },
+//     {
+//         id: 2,
+//         iconClass: "ion-monitor",
+//         title: "UI/UX designs",
+//         content: "We conduct the marketing of products & services using latest digital technologies."
+//     },
+//     {
+//         id: 3,
+//         iconClass: "ion-ios-baseball-outline",
+//         title: "SEO marketing",
+//         content: "We conduct the marketing of products & services using latest digital technologies."
+//     },
+//     {
+//         id: 4,
+//         iconClass: "ion-pinpoint",
+//         title: "Resource use",
+//         content: "We conduct the marketing of products & services using latest digital technologies."
+//     }
+// ]
 
 export default BreadcrumbFour;
