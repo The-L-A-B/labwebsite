@@ -9,7 +9,7 @@ const BreadcrumbFour = () => {
             <div className="overlay" style={{backgroundColor: "#000", opacity: 0.6}}/>
             <Container fluid={true} className="plr--180 plr_lg--100 plr_md--50 plr_sm--50">
                 <Row className="align-items-center">
-                    <Col lg={6}>
+                    <Col>
                         <div className="breadcrumb-inner text-left">
                             <h5 className="heading text-white">
                               Life After Bootcamp (LAB) is a support group for coding bootcamp graduates. Our greatest priority is building a non-toxic, judgement-free community of talented individuals.
