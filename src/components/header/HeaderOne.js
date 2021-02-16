@@ -9,9 +9,9 @@ import logo from '../../assets/img/logo/labLogo.png'
 const HeaderOne = () => {
     return (
         <HeaderContainer
-            transparent={true}
+            transparent={false}
             sticky={true}
-            logoVersion={'light'}
+            logoVersion={'dark'}
         >
             <div className="header-left flex-20">
                 <Logo logo={logo}/>

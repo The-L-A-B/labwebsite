@@ -9,8 +9,8 @@ import logo from '../../assets/img/logo/labLogo.png'
 const HeaderTwo = () => {
     return (
         <HeaderContainer
-            logoVersion={'light'}
-            transparent={true}
+            logoVersion={'dark'}
+            transparent={false}
             sticky={true}
             classes="position-from--top"
         >
