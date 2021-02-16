@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import {Link} from "react-router-dom";
 import Logo from "../header/elements/logo";
 
-import logoBlack from '../../assets/img/logo/brook-black.png';
+import labLogo from '../../assets/img/logo/labLogo.png';
 
 const PopupMobileMenu = () => {
 
@@ -58,7 +58,7 @@ const PopupMobileMenu = () => {
             }}/>
             <div className="inner">
                 <div className="mobileheader">
-                    <Logo logo={logoBlack}/>
+                    <Logo logo={labLogo}/>
                     <button onClick={() => {
                         closeMobileMenu()
                     }} className="mobile-close"/>

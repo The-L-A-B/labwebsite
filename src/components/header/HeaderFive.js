@@ -4,7 +4,7 @@ import Logo from "./elements/logo";
 import Navbar from "./elements/navbar/Navbar";
 import HeaderConfig from "./elements/config/HeaderConfigOne";
 
-import logo from '../../assets/img/logo/brook-black.png'
+import logo from '../../assets/img/logo/labLogo.png'
 
 const HeaderFive = () => {
     return (
