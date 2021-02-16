@@ -2,7 +2,6 @@
  * Button
 ================================*/
 
-
 a,
 button {
   &.bk-btn {
@@ -11,7 +10,7 @@ button {
     line-height: 55px;
     border-width: 0;
     border-radius: 6px;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, .07);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
     color: #fff;
     display: inline-block;
     font-size: 14px;
@@ -20,7 +19,7 @@ button {
     font-family: $bodyFont;
 
     &.theme-btn {
-      background-color: #0038E3;
+      background-color: #0038e3;
     }
 
     &:hover {
@@ -30,7 +29,6 @@ button {
     }
   }
 }
-
 
 .button-group {
   .spacing {
@@ -43,7 +41,7 @@ button {
   &.brook-btn {
     color: #fff;
     border-width: 0;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, .07);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
     font-weight: 600;
     letter-spacing: 0em;
     font-family: $bodyFont;
@@ -52,8 +50,8 @@ button {
     white-space: nowrap;
     border-style: solid;
     cursor: pointer;
-    -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
-    transition: all .3s cubic-bezier(.645, .045, .355, 1);
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 
     &.text-dark {
       color: #001029;
@@ -85,8 +83,8 @@ button {
       background: $theme-color-2;
     }
 
-    &.bk-btn-yellow {
-      background: $yellow-color;
+    &.bk-btn-orange {
+      background: #fe7f2d;
     }
 
     &.red-color-2 {
@@ -151,16 +149,21 @@ button {
       }
     }
 
-
     &.bk-btn-gradient-pink {
       color: #fff;
       border-color: transparent;
-      background: -webkit-gradient(linear, left top, left bottom, color-stop(40%, #FF3F85), color-stop(85%, #FAA720));
-      background: -moz-linear-gradient(150deg, #FF3F85 40%, #FAA720 85%);
-      background: -webkit-linear-gradient(150deg, #FF3F85 40%, #FAA720 85%);
-      background: -o-linear-gradient(150deg, #FF3F85 40%, #FAA720 85%);
-      background: -ms-linear-gradient(150deg, #FF3F85 40%, #FAA720 85%);
-      background: linear-gradient(150deg, #FF3F85 40%, #FAA720 85%);
+      background: -webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        color-stop(40%, #ff3f85),
+        color-stop(85%, #faa720)
+      );
+      background: -moz-linear-gradient(150deg, #ff3f85 40%, #faa720 85%);
+      background: -webkit-linear-gradient(150deg, #ff3f85 40%, #faa720 85%);
+      background: -o-linear-gradient(150deg, #ff3f85 40%, #faa720 85%);
+      background: -ms-linear-gradient(150deg, #ff3f85 40%, #faa720 85%);
+      background: linear-gradient(150deg, #ff3f85 40%, #faa720 85%);
     }
 
     &.bk-btn-theme-border {
@@ -174,9 +177,7 @@ button {
         border-color: $theme-color;
         color: #ffffff;
       }
-
     }
-
 
     &.bk-btn-secondary-border {
       border-width: 1px;
@@ -189,7 +190,6 @@ button {
         border-color: #899664;
         color: #ffffff;
       }
-
     }
 
     &.bk-btn-white-border {
@@ -203,7 +203,6 @@ button {
         border-color: #ffffff;
         color: #222222;
       }
-
     }
 
     &.bk-btn-pink-border {
@@ -217,7 +216,6 @@ button {
         border-color: #f55d4e;
         color: #ffffff;
       }
-
     }
 
     &.btn-rounded {
@@ -254,7 +252,7 @@ button {
       padding: 0 36px;
       height: 55px;
       line-height: 55px;
-      font-size: 14px
+      font-size: 14px;
     }
 
     &.btn-lg-size {
@@ -272,14 +270,13 @@ button {
   }
 }
 
-
 a {
   &.more-details-btn {
     font-weight: 600;
     font-size: 14px;
     color: #222;
-    -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
-    transition: all .3s cubic-bezier(.645, .045, .355, 1);
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 
     &.font-16 {
       font-size: 16px;
@@ -292,10 +289,9 @@ a {
     i {
       padding-left: 20px !important;
       color: $theme-color;
-      -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
-      transition: all .3s cubic-bezier(.645, .045, .355, 1);
+      -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+      transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     }
-
 
     &.red-color {
       i {
@@ -316,12 +312,8 @@ a {
         color: $yellow-color-2;
       }
     }
-
-
   }
-
 }
-
 
 .view-more-btn {
   &.heading-color {
@@ -363,11 +355,11 @@ a {
 
     span {
       color: #ffffff;
-      -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
-      transition: all .3s cubic-bezier(.645, .045, .355, 1);
+      -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+      transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 
       &.btn-arrow {
-        transition: all .5s !important;
+        transition: all 0.5s !important;
         display: inline-block;
         vertical-align: middle;
         position: relative;
@@ -375,12 +367,12 @@ a {
         height: 2px;
         background: currentColor;
         margin-left: 14px;
-        color: #FCB72B;
+        color: #fcb72b;
         font-size: 14px;
         font-family: $bodyFont;
 
         &::before {
-          content: "";
+          content: '';
           position: absolute;
           right: 1px;
           width: 15px;
@@ -419,11 +411,9 @@ a {
   }
 }
 
-
 /* ========================
     Slider Video Play 
 =========================*/
-
 
 .yu2fvl {
   z-index: 9999;
@@ -459,7 +449,6 @@ a {
   background: none;
   cursor: pointer;
 }
-
 
 @media #{$md-layout} {
   .yu2fvl-close {
