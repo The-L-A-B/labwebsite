@@ -1,7 +1,7 @@
 import React from 'react';
 import Logo from "../header/elements/logo";
 import Input from "../input";
-import logoBlack from '../../assets/img/logo/brook-black.png';
+import labLogo from '../../assets/img/logo/labLogo.png';
 
 const PopupSearch = () => {
 
@@ -19,7 +19,7 @@ const PopupSearch = () => {
             }}/>
             <div className="inner">
                 <div className="search-header">
-                    <Logo logo={logoBlack}/>
+                    <Logo logo={labLogo}/>
                     <button className="search-close" onClick={() => {
                         closeSearchPopup();
                     }}/>
