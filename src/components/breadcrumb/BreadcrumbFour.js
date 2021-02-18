@@ -1,6 +1,6 @@
 import React from 'react';
 import {Col, Container, Row} from "react-bootstrap";
-import IconListItem from "../icon-list/IconListItemTwo";
+//import IconListItem from "../icon-list/IconListItemTwo";
 
 const BreadcrumbFour = () => {
     return (
@@ -12,7 +12,7 @@ const BreadcrumbFour = () => {
                     <Col>
                         <div className="breadcrumb-inner text-left">
                             <h5 className="heading text-white">
-                              Life After Bootcamp (LAB) is a support group for coding bootcamp graduates. Our greatest priority is building a non-toxic, judgement-free community of talented individuals.
+                              The Life After Bootcamp (L.A.B) is a support group for coding bootcamp graduates. Our greatest priority is building a non-toxic, judgement-free community of talented individuals.
 															Whether you’re seeking a career transition or deepening your knowledge, life after the weeks of structured coursework can seem perplexing and overwhelming—finding the motivation and inspiration to code in the sudden vacuum is challenging.
 															LAB was created with the intention of providing an environment in which developers of all levels, from all walks of life, can continue to give and receive encouragement and guidance, hold each other accountable, share technologies that excite, brainstorm project ideas, or connect with industry professionals.
 															We are here to contemplate, collaborate, (and sometimes commiserate,) but most importantly, celebrate together all things code related. Whatever ignites that spark, we hope you continue to feed your flame with the members of LAB. 

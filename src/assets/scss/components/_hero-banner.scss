@@ -53,7 +53,7 @@
       width: 400px;
       z-index: 1;
       display: flex;
-      justify-content: flex-end;
+      justify-content: center;
       flex-direction: column;
 
       @media #{$md-layout,$sm-layout} {
@@ -254,7 +254,7 @@
 
     &:before {
       background-color: rgba(0, 0, 0, 0.3);
-      content: "";
+      content: '';
       position: absolute;
       left: 0;
       top: 0;
