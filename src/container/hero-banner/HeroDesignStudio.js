@@ -21,7 +21,7 @@ const HeroDesignStudio = () => {
                 <div className="hero-content-right" style={{backgroundColor: '#233D4D'}}>
                     <div className="hero-right">
                         <h3>check out what we're about.</h3>
-                        <a href="/portfolio" className="brook-btn bk-btn-orange btn-sd-size btn-rounded">
+                        <a href="/about" className="brook-btn bk-btn-orange btn-sd-size btn-rounded">
                             About Us
                         </a>
                     </div>
