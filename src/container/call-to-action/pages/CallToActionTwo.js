@@ -10,11 +10,11 @@ const CallToActionTwo = ({bgColor, bgImage}) => {
                 <Row className="align-items-center text-center">
                     <Col xs={12}>
                         <div className="call-content vertical-call-to-action text-center">
-                            <h3 className="heading heading-h3">Start working together?</h3>
+                            <h3 className="heading heading-h3">Ready to join the L.A.B.?</h3>
                             <div className="spacing"/>
                             <div className="call-btn text-center">
                                 <a className="brook-btn bk-btn-theme text-theme btn-sd-size btn-rounded"
-                                   href={`${process.env.PUBLIC_URL + "/"}`}>
+                                   href={`${process.env.PUBLIC_URL + "/contact"}`}>
                                     Find out more
                                 </a>
                             </div>
