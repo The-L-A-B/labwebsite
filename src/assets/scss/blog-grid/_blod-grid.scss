@@ -2,7 +2,6 @@
     Blog Grid Area 
 =============================*/
 
-
 .blog-grid {
   position: relative;
   display: -webkit-box;
@@ -15,19 +14,17 @@
   -ms-flex-direction: column;
   flex-direction: column;
   height: 100%;
-  -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
-  transition: all .3s cubic-bezier(.645, .045, .355, 1);
+  -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   z-index: 1;
 
   .post-thumb {
-
     > a {
       overflow: hidden;
       display: block;
 
       img {
         width: 100%;
-
       }
     }
   }
@@ -44,9 +41,9 @@
     flex-grow: 1;
 
     &::before {
-      -webkit-transition: all .5s;
-      transition: all .5s;
-      content: "";
+      -webkit-transition: all 0.5s;
+      transition: all 0.5s;
+      content: '';
       width: 0;
       height: 3px;
       position: absolute;
@@ -65,15 +62,13 @@
 
           a {
             color: $heading-color;
-            -webkit-transition: all .5s;
-            transition: all .5s;
+            -webkit-transition: all 0.5s;
+            transition: all 0.5s;
 
             &:hover {
               color: $theme-color;
             }
           }
-
-
         }
       }
 
@@ -85,8 +80,8 @@
 
           a {
             color: $heading-color;
-            -webkit-transition: all .5s;
-            transition: all .5s;
+            -webkit-transition: all 0.5s;
+            transition: all 0.5s;
 
             &:hover {
               color: $theme-color;
@@ -124,7 +119,7 @@
           font-weight: 500;
 
           &::before {
-            content: "|";
+            content: '|';
             position: absolute;
             top: 0;
             left: 2px;
@@ -133,13 +128,12 @@
 
           a {
             color: $bodyColor;
-            -webkit-transition: all .5s;
-            transition: all .5s;
+            -webkit-transition: all 0.5s;
+            transition: all 0.5s;
 
             &:hover {
               color: $theme-color;
             }
-
           }
 
           &.hover-yellow-color {
@@ -185,13 +179,13 @@
       z-index: -1;
 
       &::before {
-        content: "";
+        content: '';
         position: absolute;
         top: 0;
         left: 0;
         right: 0;
         bottom: 0;
-        background: rgba(0, 0, 0, .5);
+        background: rgba(0, 0, 0, 0.5);
       }
     }
 
@@ -277,7 +271,6 @@
     }
   }
 
-
   // Blog Standard
   &.blog-standard {
     overflow: hidden;
@@ -285,8 +278,8 @@
     .post-thumb {
       a {
         img {
-          -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
-          transition: all .3s cubic-bezier(.645, .045, .355, 1);
+          -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+          transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
           width: 100%;
         }
       }
@@ -357,16 +350,16 @@
         position: relative;
 
         &::after {
-          content: "";
+          content: '';
           width: 0;
           height: 4px;
           bottom: 0;
           position: absolute;
           left: auto;
           right: 0;
-          -webkit-transition: width .6s cubic-bezier(.25, .8, .25, 1) 0s;
-          transition: width .6s cubic-bezier(.25, .8, .25, 1) 0s;
-          background: #0038E3;
+          -webkit-transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
+          transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
+          background: #fcca46;
         }
       }
 
@@ -397,8 +390,8 @@
         line-height: 60px;
         border-radius: 50%;
         text-align: center;
-        background-color: #0038E3;
-        color: #899664;
+        background-color: #fcca46;
+        color: #233d4d;
         display: inline-block;
         z-index: 1;
 
@@ -406,12 +399,11 @@
           font-family: 'FontAwesome';
           font-weight: 900;
           position: absolute;
-          content: "\f061";
+          content: '\f061';
           left: 50%;
           -webkit-transform: translate(-50%);
           -ms-transform: translate(-50%);
           transform: translate(-50%);
-
         }
       }
 
@@ -424,7 +416,6 @@
           }
         }
       }
-
 
       /* -------------------
       Yellow Color
@@ -467,11 +458,8 @@
           color: #001029;
         }
       }
-
-
     }
   }
-
 
   // Blog Creative
   &.blog-creative {
@@ -507,16 +495,12 @@
 
         h4 {
           &.heading {
-
           }
         }
       }
     }
   }
-
-
 }
-
 
 /*======================
  Blog Slide Button 
@@ -532,8 +516,8 @@
     border: 0 none;
     color: #fff;
     font-size: 22px;
-    -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
-    transition: all .3s cubic-bezier(.645, .045, .355, 1);
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     opacity: 0;
     visibility: hidden;
 
