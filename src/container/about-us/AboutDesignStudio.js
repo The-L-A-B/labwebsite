@@ -30,7 +30,7 @@ const AboutDesignStudio = () => {
                             </h6>
                             <div className="bk-separator--60 bk-separator_lg--30 bk-separator_md--20 bk-separator_sm--20"/>
                             <div className="brook-btn">
-                                <a className="brook-btn bk-btn-red btn-sd-size btn-rounded space-between" href="/">
+                                <a className="brook-btn bk-btn-red btn-sd-size btn-rounded space-between" href="/contact">
                                     Join Us
                                 </a>
                             </div>
