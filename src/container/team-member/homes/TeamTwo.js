@@ -63,7 +63,7 @@ const TeamTwo = () => {
                     <Col xs={12}>
                         <SectionTitleOne
                             wrapperClass={'text-center'}
-                            heading={"Teamwork makes the dream works"}
+                            heading={"The L.A.B. Team"}
                             separator={true}
                             separatorColor={'red'}
                         />
