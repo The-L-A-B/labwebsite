@@ -62,7 +62,7 @@ const PopupMenu = () => {
                     </div>
                     <div className="col-lg-6">
                         <div className="copyright-right text-right">
-                            <p className="bk_pra font-16 text-white">© {new Date().getFullYear()} Brook. All Rights Reserved.</p>
+                            <p className="bk_pra font-16 text-white">© {new Date().getFullYear()} Life After Bootcamp. All Rights Reserved.</p>
                         </div>
                     </div>
                 </div>

@@ -102,7 +102,7 @@ const FooterFive = () => {
 
                         <Col xs={12} md={6}>
                             <div className="copyright-right text-md-right text-center">
-                                <p>© {new Date().getFullYear()} Brook. All Rights Reserved.</p>
+                                <p>© {new Date().getFullYear()} Life After Bootcamp. All Rights Reserved.</p>
                             </div>
                         </Col>
                     </Row>

@@ -21,7 +21,7 @@ const FooterEight = () => {
 
                         <Col xs={12} md={6}>
                             <div className="bk-copyright-right text-md-right text-center">
-                                <p className="bk_pra font-bold">© {new Date().getFullYear()} Brook. All Rights Reserved.</p>
+                                <p className="bk_pra font-bold">© {new Date().getFullYear()} Life After Bootcamp. All Rights Reserved.</p>
                             </div>
                         </Col>
                     </Row>
