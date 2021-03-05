@@ -3,7 +3,6 @@
 =============================*/
 @for $i from 1 through length($colorList) {
   .template-color-#{$i} {
-
     // Minicart Color Variation
     & .mini-cart {
       .shopping-cart {
@@ -20,7 +19,6 @@
                         &:hover {
                           color: nth($colorList, $i);
                         }
-
                       }
                     }
                   }
@@ -103,7 +101,6 @@
         }
       }
     }
-
 
     // Read More Button
     a {
@@ -192,7 +189,7 @@
       .content {
         .testimonial-quote {
           span {
-            color: nth($colorList, $i);
+            color: #fe7f2d;
           }
         }
       }
@@ -200,11 +197,11 @@
       &:hover {
         background: nth($colorList, $i);
 
-        .testimonial-quote {
-          span {
-            color: #ffffff;
-          }
-        }
+        // .testimonial-quote {
+        //   span {
+        //     color: #ffffff;
+        //   }
+        // }
       }
     }
 
@@ -295,16 +292,40 @@
       .icon-gradient {
         &::before {
           background-color: nth($colorList, $i);
-          background-image: -webkit-linear-gradient(223deg, #899664 0, nth($colorList, $i) 100%);
-          background-image: -o-linear-gradient(223deg, #899664 0, nth($colorList, $i) 100%);
-          background-image: linear-gradient(-133deg, #899664 0, nth($colorList, $i) 100%);
+          background-image: -webkit-linear-gradient(
+            223deg,
+            #899664 0,
+            nth($colorList, $i) 100%
+          );
+          background-image: -o-linear-gradient(
+            223deg,
+            #899664 0,
+            nth($colorList, $i) 100%
+          );
+          background-image: linear-gradient(
+            -133deg,
+            #899664 0,
+            nth($colorList, $i) 100%
+          );
         }
 
         &::after {
           background-color: nth($colorList, $i);
-          background-image: -webkit-linear-gradient(223deg, #899664 0, nth($colorList, $i) 100%);
-          background-image: -o-linear-gradient(223deg, #899664 0, nth($colorList, $i) 100%);
-          background-image: linear-gradient(-133deg, #899664 0, nth($colorList, $i) 100%);
+          background-image: -webkit-linear-gradient(
+            223deg,
+            #899664 0,
+            nth($colorList, $i) 100%
+          );
+          background-image: -o-linear-gradient(
+            223deg,
+            #899664 0,
+            nth($colorList, $i) 100%
+          );
+          background-image: linear-gradient(
+            -133deg,
+            #899664 0,
+            nth($colorList, $i) 100%
+          );
         }
       }
     }
@@ -323,7 +344,7 @@
         h5 {
           a {
             &.acc-btn {
-              &[aria-expanded="true"] {
+              &[aria-expanded='true'] {
                 color: nth($colorList, $i);
 
                 &::before {
@@ -343,13 +364,11 @@
           border-color: nth($colorList, $i);
         }
 
-        &[type="submit"] {
+        &[type='submit'] {
           border-color: nth($colorList, $i);
           background-color: nth($colorList, $i);
         }
       }
-
-
     }
 
     // Product Color
@@ -424,7 +443,6 @@
           &.active {
             a {
               background: nth($colorList, $i);
-
             }
           }
         }
@@ -476,7 +494,8 @@
         li {
           a {
             &:hover {
-              background-color: nth($colorList, $i);
+              // background-color: nth($colorList, $i);
+              background-color: #fcca46;
             }
           }
         }
@@ -522,7 +541,6 @@
               color: nth($colorList, $i);
             }
           }
-
         }
       }
     }
@@ -545,7 +563,8 @@
       .slick-center {
         .testimonial_style--1 {
           &.bg-dark {
-            background: nth($colorList, $i) !important;
+            //background: nth($colorList, $i) !important;
+            background: #fe7f2d !important;
           }
         }
       }
@@ -562,7 +581,7 @@
         h5 {
           a {
             &.acc-btn {
-              &[aria-expanded="true"] {
+              &[aria-expanded='true'] {
                 background: nth($colorList, $i);
               }
             }
@@ -629,7 +648,6 @@
         }
       }
     }
-
   }
 }
 
@@ -637,6 +655,4 @@
   color: #fff;
 }
 
-
 // Minicart Font Family Variation
-

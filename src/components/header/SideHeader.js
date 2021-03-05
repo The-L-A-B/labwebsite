@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from "react-router-dom";
-import logo from '../../assets/img/logo/simple-dark-logo.png'
+import logo from '../../assets/img/logo/labLogo.png'
 import socials from "../../data/socials";
 import {toCapitalize} from '../../helper/toCapitalize';
 

@@ -14,7 +14,7 @@ const PortfolioWithCaption = () => {
       </Helmet>
       <LayoutDefault className='template-color-1 template-font-1 bg_color--5'>
         <Header />
-        <Breadcrumb title='Portfolio With Caption' />
+        <Breadcrumb title='Teammate Projects' />
         <Portfolios wide={false} />
         <Footer />
       </LayoutDefault>

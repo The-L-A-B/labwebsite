@@ -3,7 +3,7 @@ import HeaderContainer from "../../container/header/HeaderContainerOne";
 import Logo from "./elements/logo";
 import HeaderConfig from "./elements/config/HeaderConfigTwo";
 
-import logo from '../../assets/img/logo/brook-black.png'
+import logo from '../../assets/img/logo/labLogo.png'
 
 const HeaderSeven = () => {
     return (

@@ -11,7 +11,7 @@ const TeamMemberGrid = () => {
                     <Col lg={12}>
                         <div className="breadcrumb-inner text-center mb--100">
                             <h1 className="heading heading-h1 line-height-1-5">
-                                The A-team of <span className="theme-color">awesomeness</span><br/> & creative people
+                                Our passionate, <span className="theme-color">curious</span><br/> & creative team
                             </h1>
                         </div>
                     </Col>

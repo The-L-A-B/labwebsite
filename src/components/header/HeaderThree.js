@@ -4,13 +4,13 @@ import Logo from "./elements/logo";
 import Navbar from "./elements/navbar/Navbar";
 import HeaderConfig from "./elements/config/HeaderConfigOne";
 
-import logo from '../../assets/img/logo/brook-white.png'
+import logo from '../../assets/img/logo/labLogo.png'
 
 const HeaderThree = () => {
     return (
         <HeaderContainer
-            logoVersion={'light'}
-            transparent={true}
+            logoVersion={'dark'}
+            transparent={false}
             sticky={true}
         >
             <div className="header-left flex-20">
