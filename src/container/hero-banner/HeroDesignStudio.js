@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-// import heroBannerBg from "../../assets/img/revolution/slider-design-studio-slide-01-bg.jpg";
 import heroBannerVid from "../../assets/img/revolution/pexels-zen-chung-5536728.mp4";
 import gradientBg from "../../assets/img/revolution/slider-home-design-studio-slide-01-image-01.jpg";
 import mouseIcon from "../../assets/img/revolution/mouse-icon.png";
